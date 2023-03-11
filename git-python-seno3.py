@@ -1,3 +1,6 @@
 print("Andrea Rica D. Seno")
 print("Masiga, Gasan, Marinduque")
 print("February 17, 2003")
+print("College of Information and Computing Sciences")
+print("Bachelor of Science in Information Technology")
+print("2nd year, Section B")
